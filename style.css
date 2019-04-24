@@ -1,0 +1,15 @@
+h1 {
+  color: green;
+  font-style: italic;
+}
+body{
+  background-image: url("https://images.pexels.com/photos/461593/pexels-photo-461593.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  background-repeat:;
+  background-size: cover;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+footer {
+  font-size: 60px;
+  font-style: italic;
+}
