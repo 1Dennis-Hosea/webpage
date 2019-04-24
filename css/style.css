@@ -14,3 +14,8 @@ footer {
   font-size: 60px;
   font-style: italic;
 }
+div {
+  border-style: dashed;
+  padding: 6px;
+  border-color: lime;
+}
